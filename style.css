@@ -1,11 +1,13 @@
 div {
-            background: red;
+            background: blue;
+    color: aliceblue;
         }
         
-        .two {
-            background: green;
-        }
         
         #myId {
             background: gray;
         }
+
+h1 {
+    font-family: helvetica;
+}
